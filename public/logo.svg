@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Top Bar -->
+  <rect x="3" y="6" width="94" height="13" fill="#0B568C" />
+  <!-- Speech Bubble Frame with Pointer -->
+  <path d="M3 25 H16 V62 H84 V25 H97 V75 L41 96 V75 H3 Z" fill="#0B568C" />
+  <!-- Center Accent Bar -->
+  <rect x="28" y="37" width="44" height="13" fill="#E6004C" />
+</svg>

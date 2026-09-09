@@ -1,0 +1,6 @@
+{
+  "name": "AgxChat - Omnichannel & AI Chat Agent",
+  "description": "Landing page AgxChat bertema modern ala Brevo dengan fitur Unlimited Chat, AI Agent, Integrasi Biteship, TemanQRIS, dan AgxPOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
